@@ -121,8 +121,8 @@ p.card-text{
     .card-item{
         width: 100%;
     }
-}
 
-@media all and (min-width: 1440px){
-
+    p.card-text{
+        margin-bottom: 25px;
+    }
 }
